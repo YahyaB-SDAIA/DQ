@@ -1,0 +1,9 @@
+Run timestamp: 2026-11-19T07:54:18
+Input: sample_data.csv
+Customer master: customer_master.csv
+Records: 20
+Rules executed: 18
+Weighted score: 94.14%
+Total violations: 22
+Critical rules with failures: 6
+Status: ACTION REQUIRED
